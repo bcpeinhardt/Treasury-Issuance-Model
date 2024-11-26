@@ -22,7 +22,7 @@ The project includes:
     1. Treasury_Issuance_Model-refactored.pynb: Jupyter code, illustrating the code with explanations.  
     2. Belton et al.pdf : original paper. Also find it at https://www.brookings.edu/research/optimizing-the-maturity-structure-of-u-s-treasury-debt/
 
-##  Contacs:
+##  Contacts:
 To report any mistakes, or get help with the code, please contact lrigon@stanford.edu. 
 
 ## Credits :
